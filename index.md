@@ -1,2 +1,2 @@
-# Welcome to RAinrin's blog
+# Welcome to Rainrin's blog
 **a sample**
