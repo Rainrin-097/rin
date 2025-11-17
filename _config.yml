@@ -1,0 +1,14 @@
+# 站点设置
+title: "Rin' Blog"
+description: "Welcome to my blog"
+baseurl: "" # 通常留空
+url: "https://.github.io" # 替换为你的实际用户名
+
+# 构建设置
+theme: minima
+plugins:
+  - jekyll-feed
+
+# 作者信息
+author:
+  name: "Rin"
